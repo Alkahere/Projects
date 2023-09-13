@@ -1,0 +1,9 @@
+{
+	"name": "olympic-datadf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80274a22-6703-41b5-9fb7-553b6abb9ba4",
+		"tenantId": "592dfc2f-5874-48e0-96cb-e5985a9ae159"
+	}
+}
